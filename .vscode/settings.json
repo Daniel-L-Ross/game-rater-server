@@ -1,0 +1,15 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "name": "rater DB",
+            "database": "db.sqlite3"
+        }
+    ],
+    "python.linting.pylintEnabled": true,
+    "python.pythonPath": "/Users/danielross/.local/share/virtualenvs/level-up-server-Y4sTJpYx/bin/python",
+    "python.linting.pylintArgs": [
+        "--django-settings-module=levelup.settings",
+    ]
+}
